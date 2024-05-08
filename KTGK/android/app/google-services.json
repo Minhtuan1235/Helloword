@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722322261187",
+    "project_id": "lab3th",
+    "storage_bucket": "lab3th.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722322261187:android:24df2e11a9b920cae40e76",
+        "android_client_info": {
+          "package_name": "com.lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq8wFjmxjoh-3h7fKVUQObWZ_OXrY2plY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
